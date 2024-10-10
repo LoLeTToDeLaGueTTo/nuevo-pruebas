@@ -4,27 +4,3 @@ http://185.233.16.53:80/live/XFAAM57428/MK587428846/290349.ts
 http://185.233.16.3:80/live/XFAAM57428/MK587428846/290352.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" ,US: TENNIS CHANNEL HD
-http://185.233.16.3:80/live/vi26856/YCqv3GhBxe/751366.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" ,ES: TENNIS CHANNEL HD
-http://185.233.16.3:80/live/vi26856/YCqv3GhBxe/538753.ts
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT: SUPER TENNIS SD" tvg-logo="" ,IT: SUPER TENNIS SD
-http://185.233.16.53:80/live/fe16285/GVe4VJe9MnB/886380.ts
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5sj23gXQdJg8S3NyLjTJcj5Cs20sMmn3NXxWn-MSnClix2xOK6NjbV1LVbIcGh2R58.png" ,DE: SKY SPORT TENNIS HD
-http://185.233.16.3:80/live/vi26856/YCqv3GhBxe/827326.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT TENNIS HD" tvg-logo="" ,ZA SUPERSPORT TENNIS HD
-http://185.233.16.53:80/live/he49167/8HGqvFAyJRe/929129.ts
-
-
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" ,ES: M+ GOLF HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/268095.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="" ,UFC FIGHT PASS FHD
-http://185.233.16.3:80/live/XFAAM57428/MK587428846/786296.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" ,ES: DISCOVERY CHANNEL FHD
-http://185.233.16.3:80/live/XFAAM57428/MK587428846/859785.ts
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" ,ES: HISTORIA HD
-http://185.233.16.3:80/live/XFAAM57428/MK587428846/339761.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" ,ES: NATIONAL GEOGRAPHIC HD
-http://185.233.16.3:80/live/XFAAM57428/MK587428846/321372.ts
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,ES: M+ DOCUMENTALES HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/552955.ts
